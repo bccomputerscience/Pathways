@@ -4,8 +4,8 @@
 | Full time | Course Number and Title | Units | Milestone |
 | --- | --- | --- | --- | 
 | Semester 1 | COMP B11 Programming Concepts and Methodologies I | 3 |   |    
-| Semester 1 | MATH B6a Analytic Geometry and Calculus I | 4 |   |    
-| Semester 1 | PHYS B4a Mechanics and Wave Motion | 4 |   |                 
+|  | MATH B6a Analytic Geometry and Calculus I | 4 |   |    
+|  | PHYS B4a Mechanics and Wave Motion | 4 |   |                 
 | --- | --- | --- | --- | 
 | Semester 2 | COMP B12 Programming Concepts and Methodologies II | 3 |   |   
 | Semester 2 | MATH B6b Analytic Geometry / Calculus II | 4 |   |   
