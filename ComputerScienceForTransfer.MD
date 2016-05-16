@@ -15,6 +15,7 @@
 
 
 | Part Time | Course Number and Title | Units | Milestone |
+| --- | --- | --- | --- | 
 | Semester 1 | COMP B11 Programming Concepts and Methodologies I | 3 |   |         
 | --- | --- | --- | --- | 
 | Semester 2 | COMP B12 Programming Concepts and Methodologies II | 3 |   |   
