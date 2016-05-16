@@ -10,7 +10,6 @@
 | Semester 2 | COMP B12 Programming Concepts and Methodologies II | 3 |   |   |   
 |  | MATH B6b Analytic Geometry / Calculus II | 4 |   |   |   
 |  | PHYS B4a Mechanics and Wave Motion | 4 |   |   |  
-      
 |  | COMM B1 Public Speaking | 3 |   |   | 
 |  | Arts & Humanities | 3 |   |   |                 
 |  |  | Total 17 |  |   | 
