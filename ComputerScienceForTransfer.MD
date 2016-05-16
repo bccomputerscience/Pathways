@@ -5,12 +5,12 @@
 | --- | --- | --- | --- | --- | 
 | Semester 1 | COMP B11 Programming Concepts and Methodologies I | 3 |   |   |    
 |  | MATH B6a Analytic Geometry and Calculus I | 4 |   |   |  
-|  | ENGL B1A Expository Composition | 3 |   |   |                 
+|  | ENGL B1A Expository Composition | 3 |   |   |     
+|  | COMM B1 Public Speaking | 3 |   |   |             
 |  |  | Total 14 |  |   | 
 | Semester 2 | COMP B12 Programming Concepts and Methodologies II | 3 |   |   |   
 |  | MATH B6b Analytic Geometry / Calculus II | 4 |   |   |   
-|  | PHYS B4a Mechanics and Wave Motion | 4 |   |   |  
-|  | COMM B1 Public Speaking | 3 |   |   | 
+|  | PHYS B4a Mechanics and Wave Motion | 4 |   |   |
 |  | Arts & Humanities | 3 |   |   |                 
 |  |  | Total 17 |  |   | 
 | Semester 3 | COMP B13 Computer Architecture & Organization | 3 |   |   |  
