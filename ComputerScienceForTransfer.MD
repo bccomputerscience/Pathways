@@ -1,6 +1,5 @@
 # Name of Major: Computer Science for Transfer
-## Completion Time for Full time students: 8 semesters
-## Completion Time for Part time students: 16 semesters
+### Completion Time for Full time students: 8 semesters
 
 | Full time | Course Number and Title | Units | Milestone |
 | --- | --- | --- | --- | 
@@ -22,8 +21,7 @@
 | --- | --- | --- | --- | 
 
 
-
-
+### Completion Time for Part time students: 16 semesters
 | Part Time | Course Number and Title | Units | Milestone |
 | --- | --- | --- | --- | 
 | Semester 1 | COMP B11 Programming Concepts and Methodologies I | 3 |   |      
